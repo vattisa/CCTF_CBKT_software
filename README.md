@@ -7,4 +7,4 @@ When the user hower over the data there is a tooltip text which displays the des
 
 Currently in version V1.0 the intercompatability of the CGGTTS versions (V1, V2 and V2E )is an issue. For Example if the receiver 1 CGGTTS data set is of V2 then the receiver 2 CGGTTS data set should also be V2 only. Only in case of GPS it works for all versions of CGGTTS.
 
-For any queries please write to the co ordinator of Time & Frequency CBKT at BIPM: tf.cbkt@bipm.org
+For any queries please write to the co ordinator of Time & Frequency CBKT at BIPM: tf.cbkt@bipm.org 
