@@ -9,8 +9,4 @@ Currently in version V1.0 the intercompatability of the CGGTTS versions (V1, V2 
 
 For any queries please write to the co ordinator of Time & Frequency CBKT at BIPM: tf.cbkt@bipm.org 
 
-**Disclaimer:**
-
-The software as well as any other material or information accessible through this website/Repository is provided on an “as-is” and "as available" basis. Users shall hold the BIPM free and harmless in connection with its use.
-Given that the BIPM is an intergovernmental organization, any dispute, controversy or claim arising out of, or relating to, the use of the license GPL3 that could not have been resolved amicably, may be referred to, and finally determined by, arbitration in accordance with the UNCITRAL Arbitration Rules as then in force. The arbitral tribunal shall consist of a sole arbitrator and the language of the proceedings shall be English. The place of arbitration shall be Paris, France, unless otherwise agreed. The arbitral proceedings may be conducted remotely (e.g., via telephone conference or written submissions) whenever practicable.
-Nothing in or relating to the use of the aforementioned license shall be deemed or construed as a waiver, express or implied, of any of the privileges and immunities accorded to the BIPM or its staff, under international law or international conventions, including, but not limited to, the BIPM Headquarters Agreement.
+This software is provided under the GPL 3 licence. Please refer to LICENSE and DISCLAIMER file for more information.
